@@ -1,0 +1,55 @@
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/josérodrigues/ontologies/2025/exames#EmilyTerrell
+:EmilyTerrell rdf:type owl:NamedIndividual ,
+                       :Atleta ;
+              :temGenero "F" ;
+              :temEmail "emily.terrell@gdgoma.org" ;
+              :temIdade "28"^^xsd:int ;
+              :temMorada "Clay" ;
+              :temNome "Emily Terrell" ;
+              :éFederado "false"^^xsd:boolean .
+
+[ rdf:type owl:NegativePropertyAssertion ;
+   owl:sourceIndividual :EmilyTerrell ;
+   owl:assertionProperty :temClube ;
+   owl:targetIndividual :GDGoma
+ ] .
+
+[ rdf:type owl:NegativePropertyAssertion ;
+   owl:sourceIndividual :EmilyTerrell ;
+   owl:assertionProperty :fazExame ;
+   owl:targetIndividual :Exame1
+ ] .
+
+[ rdf:type owl:NegativePropertyAssertion ;
+   owl:sourceIndividual :EmilyTerrell ;
+   owl:assertionProperty :praticaModalidade ;
+   owl:targetIndividual :Futebol
+ ] .
+
+
+###  http://www.semanticweb.org/josérodrigues/ontologies/2025/exames#Exame1
+:Exame1 rdf:type owl:NamedIndividual ,
+                 :Exame ;
+        :temData "2020-07-27T00:00:00"^^xsd:dateTime ;
+        :temResultado "false"^^xsd:boolean .
+
+
+###  http://www.semanticweb.org/josérodrigues/ontologies/2025/exames#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+                  :Modalidade ;
+         :temNome "Futebol" .
+
+[ rdf:type owl:NegativePropertyAssertion ;
+   owl:sourceIndividual :Futebol ;
+   owl:assertionProperty :temClube ;
+   owl:targetIndividual :GDGoma
+ ] .
+
+
+###  http://www.semanticweb.org/josérodrigues/ontologies/2025/exames#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+                 :Clube .
