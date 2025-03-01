@@ -1,5 +1,5 @@
-# TPC1: Resolução de queries sobre a história de Portugal usando SPARQL
-## 2025/02/09
+# TPC2: Resolução de queries sobre a história de Portugal usando SPARQL
+## 2025/02/16
 
 ## Autor:
 - PG55969
