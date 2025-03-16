@@ -1,0 +1,1511 @@
+{
+    "atores": [
+        {
+            "id": "http://dbpedia.org/resource/Amy_Manson",
+            "nome": "Amy Manson",
+            "dataNasc": "1985-09-09",
+            "origem": "Aberdeenshire, Scotland"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Lance_Henriksen",
+            "nome": "Lance Henriksen",
+            "dataNasc": "1940-05-05",
+            "origem": "Manhattan, New York, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Malcolm_Gets",
+            "nome": "Malcolm Gets",
+            "dataNasc": "1963-12-28",
+            "origem": "Waukegan, Illinois, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Julianne_Moore",
+            "nome": "Julianne Moore",
+            "dataNasc": "1960-12-03",
+            "origem": "Fort Bragg, North Carolina, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Jason_Faunt",
+            "nome": "Jason Faunt",
+            "dataNasc": "1974-11-20",
+            "origem": "Chicago, Illinois, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Paul_Schrier",
+            "nome": "Paul Schrier",
+            "dataNasc": "1970-06-01",
+            "origem": "Las Vegas, Nevada, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Theresa_Russell",
+            "nome": "Theresa Russell",
+            "dataNasc": "1957-03-20",
+            "origem": "San Diego, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Robert_Ridgely",
+            "nome": "Robert Ridgely",
+            "dataNasc": "1931-12-24",
+            "origem": "Teaneck, New Jersey, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Peter_Yarrow",
+            "nome": "Peter Yarrow",
+            "dataNasc": "1938-05-31",
+            "origem": "Manhattan, New York City"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Antonia_Prebble",
+            "nome": "Antonia Prebble",
+            "dataNasc": "1984-06-06",
+            "origem": "Wellington, New Zealand"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Edward_Albert",
+            "nome": "Edward Albert",
+            "dataNasc": "1951-02-20",
+            "origem": "Los Angeles, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Ike_Eisenmann",
+            "nome": "Ike Eisenmann",
+            "dataNasc": "1962-07-21",
+            "origem": "Houston, Texas, US"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Clancy_Brown",
+            "nome": "Clancy Brown",
+            "dataNasc": "1959-01-05",
+            "origem": "Urbana, Ohio, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Patrick_Muldoon",
+            "nome": "Patrick Muldoon",
+            "dataNasc": "1968-09-27",
+            "origem": "San Pedro, California, U.S"
+        },
+        {
+            "id": "http://dbpedia.org/resource/John_Tui",
+            "nome": "John Tui",
+            "dataNasc": "1975-06-11",
+            "origem": "http://dbpedia.org/resource/Auckland,_New_Zealand"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Lea_Thompson",
+            "nome": "Lea Thompson",
+            "dataNasc": "1961-05-31",
+            "origem": "Rochester, Minnesota, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Rena_Sofer",
+            "nome": "Rena Sofer",
+            "dataNasc": "1968-12-02",
+            "origem": "Arcadia, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Angela_Bettis",
+            "nome": "Angela Bettis",
+            "dataNasc": "1973-01-09",
+            "origem": "Austin, Texas, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Katherine_Helmond",
+            "nome": "Katherine Helmond",
+            "dataNasc": "1929-07-05",
+            "origem": "Galveston, Texas, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Burgess_Meredith",
+            "nome": "Burgess Meredith",
+            "dataNasc": "1907-11-16",
+            "origem": "Cleveland, Ohio, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Firass_Dirani",
+            "nome": "Firass Dirani",
+            "dataNasc": "1984-04-29",
+            "origem": "Sydney, Australia"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Richard_Brancatisano",
+            "nome": "Richard Brancatisano",
+            "dataNasc": "1983-10-29",
+            "origem": "New South Wales, Australia"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Lani_O'Grady",
+            "nome": "Lani O'Grady",
+            "dataNasc": "1954-10-02",
+            "origem": "Walnut Creek, California, US"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Susan_Dey",
+            "nome": "Susan Dey",
+            "dataNasc": "1952-12-10",
+            "origem": "Pekin, Illinois, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Sam_Bottoms",
+            "nome": "Sam Bottoms",
+            "dataNasc": "1955-10-17",
+            "origem": "Santa Barbara, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Charles_Hallahan",
+            "nome": "Charles Hallahan",
+            "dataNasc": "1943-07-29",
+            "origem": "Philadelphia, Pennsylvania, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Kandyse_McClure",
+            "nome": "Kandyse McClure",
+            "dataNasc": "1980-03-22",
+            "origem": "http://dbpedia.org/resource/Durban,_South_Africa"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Claire_Forlani",
+            "nome": "Claire Forlani",
+            "dataNasc": "1972-07-01",
+            "origem": "Twickenham, London, England"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+            "nome": "Vernon Wells",
+            "dataNasc": "1945-12-31",
+            "origem": "Rushworth, Victoria, Australia"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Jason_David_Frank",
+            "nome": "Jason David Frank",
+            "dataNasc": "1973-09-04",
+            "origem": "Covina, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Jason_David_Frank",
+            "nome": "Toso Kune Do",
+            "dataNasc": "1973-09-04",
+            "origem": "Covina, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Anne_Bloom",
+            "nome": "Anne Bloom",
+            "dataNasc": "1947-04-18",
+            "origem": "Los Angeles, California"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+            "nome": "Johnny Yong Bosch",
+            "dataNasc": "1976-01-06",
+            "origem": "Kansas City, Missouri, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Nakia_Burrise",
+            "nome": "Nakia Burrise",
+            "dataNasc": "1974-10-21",
+            "origem": "San Diego, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Joan_Gerber",
+            "nome": "Joan Gerber",
+            "dataNasc": "1935-07-29",
+            "origem": "Detroit, Michigan, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Fred_Ward",
+            "nome": "Fred Ward",
+            "dataNasc": "1942-12-30",
+            "origem": "San Diego, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Blake_Foster",
+            "nome": "Blake Foster",
+            "dataNasc": "1985-05-29",
+            "origem": "Northridge, Los Angeles, California, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/Erin_Cahill",
+            "nome": "Erin Cahill",
+            "dataNasc": "1980-01-04",
+            "origem": "Stafford, Virginia, U.S."
+        },
+        {
+            "id": "http://dbpedia.org/resource/David_Warner_(actor)",
+            "nome": "David Warner",
+            "dataNasc": "1941-07-29",
+            "origem": "Manchester, England"
+        },
+        {
+            "id": "http://dbpedia.org/resource/Emilie_de_Ravin",
+            "nome": "Emilie de Ravin",
+            "dataNasc": "1981-12-27",
+            "origem": "Mount Eliza, Victoria, Australia"
+        }
+    ],
+    "filmes": [
+        {
+            "id": "http://dbpedia.org/resource/Cage_Without_a_Key",
+            "pais": "United States",
+            "realizador": "Robert Mintz",
+            "abs": "Cage Without a Key is a 1975 American made-for-television drama film directed by Buzz Kulik and starring Susan Dey and Sam Bottoms, with Jonelle Allen and Lani O'Grady in supporting roles. The film premiered on the CBS television network the evening of March 14, 1975, later repeating at various times on The CBS Late Movie. The film was released on VHS under the title Imprisoned Women. Cage Without a Key was filmed at Las Palmas School for Girls in Commerce, California, now known as the Dorothy Kirby Center. It was a juvenile detention center, not an actual women's prison. Many of the extras were actual inmates.",
+            "genero": "http://dbpedia.org/resource/Drama_(film_and_television)",
+            "atores": [
+                "http://dbpedia.org/resource/Sam_Bottoms",
+                "http://dbpedia.org/resource/Anne_Bloom",
+                "http://dbpedia.org/resource/Katherine_Helmond",
+                "http://dbpedia.org/resource/Lani_O'Grady",
+                "http://dbpedia.org/resource/Susan_Dey"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Cage_Without_a_Key",
+            "pais": "United States",
+            "realizador": "Buzz Kulik",
+            "abs": "Cage Without a Key is a 1975 American made-for-television drama film directed by Buzz Kulik and starring Susan Dey and Sam Bottoms, with Jonelle Allen and Lani O'Grady in supporting roles. The film premiered on the CBS television network the evening of March 14, 1975, later repeating at various times on The CBS Late Movie. The film was released on VHS under the title Imprisoned Women. Cage Without a Key was filmed at Las Palmas School for Girls in Commerce, California, now known as the Dorothy Kirby Center. It was a juvenile detention center, not an actual women's prison. Many of the extras were actual inmates.",
+            "genero": "http://dbpedia.org/resource/Drama_(film_and_television)",
+            "atores": [
+                "http://dbpedia.org/resource/Sam_Bottoms",
+                "http://dbpedia.org/resource/Anne_Bloom",
+                "http://dbpedia.org/resource/Katherine_Helmond",
+                "http://dbpedia.org/resource/Lani_O'Grady",
+                "http://dbpedia.org/resource/Susan_Dey"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Carolina_Moon_(2007_film)",
+            "pais": "United States",
+            "realizador": "Peter Guber",
+            "abs": "Carolina Moon is a 2007 American television film directed by Stephen Tolkin and starring Claire Forlani and Oliver Hudson. Based on the 2000 Nora Roberts novel Carolina Moon, the film is about a woman with psychic visions who returns to her hometown to exorcise her demons and finds both danger and love. Carolina Moon is part of the Nora Roberts 2007 movie collection, which also includes Angels Fall, Blue Smoke, and Montana Sky. The movie debuted February 19, 2007 on Lifetime Television.",
+            "genero": "http://dbpedia.org/resource/Thriller_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Claire_Forlani",
+                "http://dbpedia.org/resource/Oliver_Hudson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Carolina_Moon_(2007_film)",
+            "pais": "United States",
+            "realizador": "Peter Guber",
+            "abs": "Carolina Moon is a 2007 American television film directed by Stephen Tolkin and starring Claire Forlani and Oliver Hudson. Based on the 2000 Nora Roberts novel Carolina Moon, the film is about a woman with psychic visions who returns to her hometown to exorcise her demons and finds both danger and love. Carolina Moon is part of the Nora Roberts 2007 movie collection, which also includes Angels Fall, Blue Smoke, and Montana Sky. The movie debuted February 19, 2007 on Lifetime Television.",
+            "genero": "http://dbpedia.org/resource/Drama_film",
+            "atores": [
+                "http://dbpedia.org/resource/Claire_Forlani",
+                "http://dbpedia.org/resource/Oliver_Hudson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Caroline_in_the_City",
+            "pais": "United States",
+            "realizador": "Faye Oshima Belyeu",
+            "abs": "Caroline in the City is an American television sitcom that ran on the NBC television network from 1995 until 1999. It stars Lea Thompson as cartoonist Caroline Duffy, who lives in Manhattan. The series premiered on September 21, 1995, in the \"Must See TV\" Thursday night block between Seinfeld and ER. The show ran for 97 episodes over four seasons before it was cancelled; the final episode, which ended on a cliffhanger that was never resolved, was broadcast on April 26, 1999. The series' rights are currently held by CBS Television Distribution.",
+            "genero": "http://dbpedia.org/resource/Sitcom",
+            "atores": [
+                "http://dbpedia.org/resource/Eric_Lutes",
+                "http://dbpedia.org/resource/Malcolm_Gets",
+                "http://dbpedia.org/resource/Amy_Pietz",
+                "http://dbpedia.org/resource/Lea_Thompson",
+                "http://dbpedia.org/resource/Andy_Lauer"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Carrie_(2002_film)",
+            "pais": "United States",
+            "realizador": "David Carson",
+            "abs": "Carrie is a 2002 supernatural horror television film, based on the 1974 novel of the same name by Stephen King. It is the second film adaptation and a re-imagining of the novel, and the third film in the Carrie franchise. The film was written by Bryan Fuller, directed by David Carson, and stars Angela Bettis in the leading role. In the story, Carrie White, a shy girl who is harassed by her schoolmates, disappears and a series of flashbacks reveal what has happened to her. An international co-production film between Canada and The United States. Carrie was produced by Trilogy Entertainment Group and MGM Television at the request of television network NBC. Filmed in Vancouver, it was commissioned as a stand-alone feature by the network but the studios intended it as a backdoor pilot for a potential television series. The ending of the novel was changed accordingly, but no follow-up series was ever produced. The film premiered on NBC on November 4, 2002, when it was viewed by 12.21 million people. Despite the good ratings and two award nominations (a Saturn Award and ASC Award), the film was poorly received by film critics. The performances, especially Bettis', were praised, but the film was criticized for its poor special effects, lack of a horror atmosphere, and long runtime.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Patricia_Clarkson",
+                "http://dbpedia.org/resource/Rena_Sofer",
+                "http://dbpedia.org/resource/Emilie_de_Ravin",
+                "http://dbpedia.org/resource/Angela_Bettis",
+                "http://dbpedia.org/resource/Kandyse_McClure"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Cast_a_Deadly_Spell",
+            "pais": "United States",
+            "realizador": "Gale Anne Hurd",
+            "abs": "Cast a Deadly Spell (1991) is a horror fantasy detective television film with Fred Ward, Julianne Moore, David Warner and Clancy Brown. It was directed by Martin Campbell, produced by Gale Anne Hurd, and written by Joseph Dougherty. The original music score was composed by Curt Sobel. Cast a Deadly Spell combines two genres \u2013 eldritch tales of H. P. Lovecraft's Cthulhu Mythos, and film noir mysteries.",
+            "genero": "http://dbpedia.org/resource/Fantasy_film",
+            "atores": [
+                "http://dbpedia.org/resource/David_Warner_(actor)",
+                "http://dbpedia.org/resource/Julianne_Moore",
+                "http://dbpedia.org/resource/Clancy_Brown",
+                "http://dbpedia.org/resource/Alexandra_Powers",
+                "http://dbpedia.org/resource/Fred_Ward",
+                "http://dbpedia.org/resource/Charles_Hallahan"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Lightspeed Rescue is an American television series and the eighth season of the Power Rangers franchise, based on the 23rd Super Sentai series Kyuukyuu Sentai GoGoFive (1999). Lightspeed Rescue had, for the first time, a Power Ranger with no Super Sentai counterpart in the Titanium Ranger, as there was no regular sixth Ranger in GoGo V, which makes it the only season to have an American-exclusive Sixth Ranger.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Lightspeed Rescue is an American television series and the eighth season of the Power Rangers franchise, based on the 23rd Super Sentai series Kyuukyuu Sentai GoGoFive (1999). Lightspeed Rescue had, for the first time, a Power Ranger with no Super Sentai counterpart in the Titanium Ranger, as there was no regular sixth Ranger in GoGo V, which makes it the only season to have an American-exclusive Sixth Ranger.",
+            "genero": "http://dbpedia.org/resource/Action_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Lightspeed Rescue is an American television series and the eighth season of the Power Rangers franchise, based on the 23rd Super Sentai series Kyuukyuu Sentai GoGoFive (1999). Lightspeed Rescue had, for the first time, a Power Ranger with no Super Sentai counterpart in the Titanium Ranger, as there was no regular sixth Ranger in GoGo V, which makes it the only season to have an American-exclusive Sixth Ranger.",
+            "genero": "http://dbpedia.org/resource/Science_fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Lightspeed Rescue is an American television series and the eighth season of the Power Rangers franchise, based on the 23rd Super Sentai series Kyuukyuu Sentai GoGoFive (1999). Lightspeed Rescue had, for the first time, a Power Ranger with no Super Sentai counterpart in the Titanium Ranger, as there was no regular sixth Ranger in GoGo V, which makes it the only season to have an American-exclusive Sixth Ranger.",
+            "genero": "http://dbpedia.org/resource/Adventure_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Lightspeed Rescue is an American television series and the eighth season of the Power Rangers franchise, based on the 23rd Super Sentai series Kyuukyuu Sentai GoGoFive (1999). Lightspeed Rescue had, for the first time, a Power Ranger with no Super Sentai counterpart in the Titanium Ranger, as there was no regular sixth Ranger in GoGo V, which makes it the only season to have an American-exclusive Sixth Ranger.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Lightspeed Rescue is an American television series and the eighth season of the Power Rangers franchise, based on the 23rd Super Sentai series Kyuukyuu Sentai GoGoFive (1999). Lightspeed Rescue had, for the first time, a Power Ranger with no Super Sentai counterpart in the Titanium Ranger, as there was no regular sixth Ranger in GoGo V, which makes it the only season to have an American-exclusive Sixth Ranger.",
+            "genero": "http://dbpedia.org/resource/Action_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Lightspeed Rescue is an American television series and the eighth season of the Power Rangers franchise, based on the 23rd Super Sentai series Kyuukyuu Sentai GoGoFive (1999). Lightspeed Rescue had, for the first time, a Power Ranger with no Super Sentai counterpart in the Titanium Ranger, as there was no regular sixth Ranger in GoGo V, which makes it the only season to have an American-exclusive Sixth Ranger.",
+            "genero": "http://dbpedia.org/resource/Science_fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Lightspeed Rescue is an American television series and the eighth season of the Power Rangers franchise, based on the 23rd Super Sentai series Kyuukyuu Sentai GoGoFive (1999). Lightspeed Rescue had, for the first time, a Power Ranger with no Super Sentai counterpart in the Titanium Ranger, as there was no regular sixth Ranger in GoGo V, which makes it the only season to have an American-exclusive Sixth Ranger.",
+            "genero": "http://dbpedia.org/resource/Adventure_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Power_Rangers_Lightspeed_Rescue"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Mystic_Force",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers Mystic Force is the fourteenth season of the American television series Power Rangers, based on the Japanese 29th Super Sentai tokusatsu series. The season premiered on February 20, 2006 as part of the Jetix block on Toon Disney. The season is an adaptation of Mah\u014d Sentai Magiranger, and is the only Disney-produced season to feature the main villain from its Super Sentai counterpart.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/John_Tui",
+                "http://dbpedia.org/resource/Richard_Brancatisano",
+                "http://dbpedia.org/resource/Melanie_Vallejo",
+                "http://dbpedia.org/resource/Antonia_Prebble",
+                "http://dbpedia.org/resource/Firass_Dirani",
+                "http://dbpedia.org/resource/Nic_Sampson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Mystic_Force",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers Mystic Force is the fourteenth season of the American television series Power Rangers, based on the Japanese 29th Super Sentai tokusatsu series. The season premiered on February 20, 2006 as part of the Jetix block on Toon Disney. The season is an adaptation of Mah\u014d Sentai Magiranger, and is the only Disney-produced season to feature the main villain from its Super Sentai counterpart.",
+            "genero": "http://dbpedia.org/resource/Action_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/John_Tui",
+                "http://dbpedia.org/resource/Richard_Brancatisano",
+                "http://dbpedia.org/resource/Melanie_Vallejo",
+                "http://dbpedia.org/resource/Antonia_Prebble",
+                "http://dbpedia.org/resource/Firass_Dirani",
+                "http://dbpedia.org/resource/Nic_Sampson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Mystic_Force",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers Mystic Force is the fourteenth season of the American television series Power Rangers, based on the Japanese 29th Super Sentai tokusatsu series. The season premiered on February 20, 2006 as part of the Jetix block on Toon Disney. The season is an adaptation of Mah\u014d Sentai Magiranger, and is the only Disney-produced season to feature the main villain from its Super Sentai counterpart.",
+            "genero": "http://dbpedia.org/resource/Adventure_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/John_Tui",
+                "http://dbpedia.org/resource/Richard_Brancatisano",
+                "http://dbpedia.org/resource/Melanie_Vallejo",
+                "http://dbpedia.org/resource/Antonia_Prebble",
+                "http://dbpedia.org/resource/Firass_Dirani",
+                "http://dbpedia.org/resource/Nic_Sampson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Mystic_Force",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers Mystic Force is the fourteenth season of the American television series Power Rangers, based on the Japanese 29th Super Sentai tokusatsu series. The season premiered on February 20, 2006 as part of the Jetix block on Toon Disney. The season is an adaptation of Mah\u014d Sentai Magiranger, and is the only Disney-produced season to feature the main villain from its Super Sentai counterpart.",
+            "genero": "http://dbpedia.org/resource/Science_fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/John_Tui",
+                "http://dbpedia.org/resource/Richard_Brancatisano",
+                "http://dbpedia.org/resource/Melanie_Vallejo",
+                "http://dbpedia.org/resource/Antonia_Prebble",
+                "http://dbpedia.org/resource/Firass_Dirani",
+                "http://dbpedia.org/resource/Nic_Sampson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Mystic_Force",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers Mystic Force is the fourteenth season of the American television series Power Rangers, based on the Japanese 29th Super Sentai tokusatsu series. The season premiered on February 20, 2006 as part of the Jetix block on Toon Disney. The season is an adaptation of Mah\u014d Sentai Magiranger, and is the only Disney-produced season to feature the main villain from its Super Sentai counterpart.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/John_Tui",
+                "http://dbpedia.org/resource/Richard_Brancatisano",
+                "http://dbpedia.org/resource/Melanie_Vallejo",
+                "http://dbpedia.org/resource/Antonia_Prebble",
+                "http://dbpedia.org/resource/Firass_Dirani",
+                "http://dbpedia.org/resource/Nic_Sampson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Mystic_Force",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers Mystic Force is the fourteenth season of the American television series Power Rangers, based on the Japanese 29th Super Sentai tokusatsu series. The season premiered on February 20, 2006 as part of the Jetix block on Toon Disney. The season is an adaptation of Mah\u014d Sentai Magiranger, and is the only Disney-produced season to feature the main villain from its Super Sentai counterpart.",
+            "genero": "http://dbpedia.org/resource/Action_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/John_Tui",
+                "http://dbpedia.org/resource/Richard_Brancatisano",
+                "http://dbpedia.org/resource/Melanie_Vallejo",
+                "http://dbpedia.org/resource/Antonia_Prebble",
+                "http://dbpedia.org/resource/Firass_Dirani",
+                "http://dbpedia.org/resource/Nic_Sampson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Mystic_Force",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers Mystic Force is the fourteenth season of the American television series Power Rangers, based on the Japanese 29th Super Sentai tokusatsu series. The season premiered on February 20, 2006 as part of the Jetix block on Toon Disney. The season is an adaptation of Mah\u014d Sentai Magiranger, and is the only Disney-produced season to feature the main villain from its Super Sentai counterpart.",
+            "genero": "http://dbpedia.org/resource/Adventure_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/John_Tui",
+                "http://dbpedia.org/resource/Richard_Brancatisano",
+                "http://dbpedia.org/resource/Melanie_Vallejo",
+                "http://dbpedia.org/resource/Antonia_Prebble",
+                "http://dbpedia.org/resource/Firass_Dirani",
+                "http://dbpedia.org/resource/Nic_Sampson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Mystic_Force",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers Mystic Force is the fourteenth season of the American television series Power Rangers, based on the Japanese 29th Super Sentai tokusatsu series. The season premiered on February 20, 2006 as part of the Jetix block on Toon Disney. The season is an adaptation of Mah\u014d Sentai Magiranger, and is the only Disney-produced season to feature the main villain from its Super Sentai counterpart.",
+            "genero": "http://dbpedia.org/resource/Science_fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/John_Tui",
+                "http://dbpedia.org/resource/Richard_Brancatisano",
+                "http://dbpedia.org/resource/Melanie_Vallejo",
+                "http://dbpedia.org/resource/Antonia_Prebble",
+                "http://dbpedia.org/resource/Firass_Dirani",
+                "http://dbpedia.org/resource/Nic_Sampson"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Cyberpunk",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Post-apocalyptic",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Science_fiction",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Action-adventure",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "Japan",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Dystopian_fiction",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Cyberpunk",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Post-apocalyptic",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Science_fiction",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Action-adventure",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_RPM",
+            "pais": "United States",
+            "realizador": "Charles Knight",
+            "abs": "Power Rangers RPM is the seventeenth season of the American television series Power Rangers and is an adaptation of Engine Sentai Go-onger, the thirty-second Japanese Super Sentai series. The season was the eighth and final to air on ABC stations, premiering March 7, 2009 on ABC Kids. Due to the low ratings of the preceding season, Jungle Fury, RPM was also the final season to be produced and distributed by Disney and Renaissance-Atlantic Entertainment, putting the series on a one-year hiatus until the premiere of Power Rangers Samurai in 2011. Power Rangers Beast Morphers (2019), which was produced by the franchise's current owner Hasbro, through its Allspark entertainment division, was its direct sequel.",
+            "genero": "http://dbpedia.org/resource/Dystopian_fiction",
+            "atores": []
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Action_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Science_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Action_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Science_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Action_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Time_Force",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Time Force is an American television series and the ninth season of the Power Rangers franchise, based on the 24th Super Sentai series Mirai Sentai Timeranger, running for 40 half-hour episodes from February to November 2001. It was the last season to be distributed by Saban Entertainment. Originally, a Time Force film was planned, but ultimately went unproduced in light of the commercial failure of Turbo: A Power Rangers Movie and the purchase of the franchise by Disney. However, Buena Vista Home Entertainment did release the series' final four episodes as a film-length home video in 2002 entitled The End of Time. A video game based on the series was released in November 2001 for PlayStation, Game Boy Color, and Game Boy Advance.",
+            "genero": "http://dbpedia.org/resource/Science_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Vernon_Wells_(actor)",
+                "http://dbpedia.org/resource/Edward_Albert",
+                "http://dbpedia.org/resource/Michael_Copon",
+                "http://dbpedia.org/resource/Erin_Cahill",
+                "http://dbpedia.org/resource/Jason_Faunt"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Turbo",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Turbo is an American television series and the fifth season of the Power Rangers franchise. The show was prefaced with the franchise's second film, Turbo: A Power Rangers Movie. As with its predecessors, Power Rangers Turbo is based on one of the entries of the Super Sentai series; in Turbo's case, the source is the 20th series, Gekisou Sentai Carranger. The series introduced a child actor as the new Blue Ranger, and featured the departure of the long-running characters Zordon and Alpha 5, as well the veteran team of Rangers and introduced four new characters to take the place of the veteran Rangers. The fifth series also marked the final regular appearances of Johnny Yong Bosch, Catherine Sutherland, and Steve Cardenas, and also the last appearance of Nakia Burrise.",
+            "genero": "http://dbpedia.org/resource/Comedy",
+            "atores": [
+                "http://dbpedia.org/resource/Roger_Velasco",
+                "http://dbpedia.org/resource/Blake_Foster",
+                "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+                "http://dbpedia.org/resource/Paul_Schrier",
+                "http://dbpedia.org/resource/Nakia_Burrise",
+                "http://dbpedia.org/resource/Catherine_Sutherland",
+                "http://dbpedia.org/resource/Tracy_Lynn_Cruz",
+                "http://dbpedia.org/resource/Jason_Narvy",
+                "http://dbpedia.org/resource/Hilary_Shepard",
+                "http://dbpedia.org/resource/Jason_David_Frank",
+                "http://dbpedia.org/resource/Patricia_Ja_Lee",
+                "http://dbpedia.org/resource/Selwyn_Ward"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Turbo",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Turbo is an American television series and the fifth season of the Power Rangers franchise. The show was prefaced with the franchise's second film, Turbo: A Power Rangers Movie. As with its predecessors, Power Rangers Turbo is based on one of the entries of the Super Sentai series; in Turbo's case, the source is the 20th series, Gekisou Sentai Carranger. The series introduced a child actor as the new Blue Ranger, and featured the departure of the long-running characters Zordon and Alpha 5, as well the veteran team of Rangers and introduced four new characters to take the place of the veteran Rangers. The fifth series also marked the final regular appearances of Johnny Yong Bosch, Catherine Sutherland, and Steve Cardenas, and also the last appearance of Nakia Burrise.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Roger_Velasco",
+                "http://dbpedia.org/resource/Blake_Foster",
+                "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+                "http://dbpedia.org/resource/Paul_Schrier",
+                "http://dbpedia.org/resource/Nakia_Burrise",
+                "http://dbpedia.org/resource/Catherine_Sutherland",
+                "http://dbpedia.org/resource/Tracy_Lynn_Cruz",
+                "http://dbpedia.org/resource/Jason_Narvy",
+                "http://dbpedia.org/resource/Hilary_Shepard",
+                "http://dbpedia.org/resource/Jason_David_Frank",
+                "http://dbpedia.org/resource/Patricia_Ja_Lee",
+                "http://dbpedia.org/resource/Selwyn_Ward"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Turbo",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Turbo is an American television series and the fifth season of the Power Rangers franchise. The show was prefaced with the franchise's second film, Turbo: A Power Rangers Movie. As with its predecessors, Power Rangers Turbo is based on one of the entries of the Super Sentai series; in Turbo's case, the source is the 20th series, Gekisou Sentai Carranger. The series introduced a child actor as the new Blue Ranger, and featured the departure of the long-running characters Zordon and Alpha 5, as well the veteran team of Rangers and introduced four new characters to take the place of the veteran Rangers. The fifth series also marked the final regular appearances of Johnny Yong Bosch, Catherine Sutherland, and Steve Cardenas, and also the last appearance of Nakia Burrise.",
+            "genero": "http://dbpedia.org/resource/Action_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Roger_Velasco",
+                "http://dbpedia.org/resource/Blake_Foster",
+                "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+                "http://dbpedia.org/resource/Paul_Schrier",
+                "http://dbpedia.org/resource/Nakia_Burrise",
+                "http://dbpedia.org/resource/Catherine_Sutherland",
+                "http://dbpedia.org/resource/Tracy_Lynn_Cruz",
+                "http://dbpedia.org/resource/Jason_Narvy",
+                "http://dbpedia.org/resource/Hilary_Shepard",
+                "http://dbpedia.org/resource/Jason_David_Frank",
+                "http://dbpedia.org/resource/Patricia_Ja_Lee",
+                "http://dbpedia.org/resource/Selwyn_Ward"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Turbo",
+            "pais": "Japan",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Turbo is an American television series and the fifth season of the Power Rangers franchise. The show was prefaced with the franchise's second film, Turbo: A Power Rangers Movie. As with its predecessors, Power Rangers Turbo is based on one of the entries of the Super Sentai series; in Turbo's case, the source is the 20th series, Gekisou Sentai Carranger. The series introduced a child actor as the new Blue Ranger, and featured the departure of the long-running characters Zordon and Alpha 5, as well the veteran team of Rangers and introduced four new characters to take the place of the veteran Rangers. The fifth series also marked the final regular appearances of Johnny Yong Bosch, Catherine Sutherland, and Steve Cardenas, and also the last appearance of Nakia Burrise.",
+            "genero": "http://dbpedia.org/resource/Science_fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/Roger_Velasco",
+                "http://dbpedia.org/resource/Blake_Foster",
+                "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+                "http://dbpedia.org/resource/Paul_Schrier",
+                "http://dbpedia.org/resource/Nakia_Burrise",
+                "http://dbpedia.org/resource/Catherine_Sutherland",
+                "http://dbpedia.org/resource/Tracy_Lynn_Cruz",
+                "http://dbpedia.org/resource/Jason_Narvy",
+                "http://dbpedia.org/resource/Hilary_Shepard",
+                "http://dbpedia.org/resource/Jason_David_Frank",
+                "http://dbpedia.org/resource/Patricia_Ja_Lee",
+                "http://dbpedia.org/resource/Selwyn_Ward"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Turbo",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Turbo is an American television series and the fifth season of the Power Rangers franchise. The show was prefaced with the franchise's second film, Turbo: A Power Rangers Movie. As with its predecessors, Power Rangers Turbo is based on one of the entries of the Super Sentai series; in Turbo's case, the source is the 20th series, Gekisou Sentai Carranger. The series introduced a child actor as the new Blue Ranger, and featured the departure of the long-running characters Zordon and Alpha 5, as well the veteran team of Rangers and introduced four new characters to take the place of the veteran Rangers. The fifth series also marked the final regular appearances of Johnny Yong Bosch, Catherine Sutherland, and Steve Cardenas, and also the last appearance of Nakia Burrise.",
+            "genero": "http://dbpedia.org/resource/Comedy",
+            "atores": [
+                "http://dbpedia.org/resource/Roger_Velasco",
+                "http://dbpedia.org/resource/Blake_Foster",
+                "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+                "http://dbpedia.org/resource/Paul_Schrier",
+                "http://dbpedia.org/resource/Nakia_Burrise",
+                "http://dbpedia.org/resource/Catherine_Sutherland",
+                "http://dbpedia.org/resource/Tracy_Lynn_Cruz",
+                "http://dbpedia.org/resource/Jason_Narvy",
+                "http://dbpedia.org/resource/Hilary_Shepard",
+                "http://dbpedia.org/resource/Jason_David_Frank",
+                "http://dbpedia.org/resource/Patricia_Ja_Lee",
+                "http://dbpedia.org/resource/Selwyn_Ward"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Turbo",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Turbo is an American television series and the fifth season of the Power Rangers franchise. The show was prefaced with the franchise's second film, Turbo: A Power Rangers Movie. As with its predecessors, Power Rangers Turbo is based on one of the entries of the Super Sentai series; in Turbo's case, the source is the 20th series, Gekisou Sentai Carranger. The series introduced a child actor as the new Blue Ranger, and featured the departure of the long-running characters Zordon and Alpha 5, as well the veteran team of Rangers and introduced four new characters to take the place of the veteran Rangers. The fifth series also marked the final regular appearances of Johnny Yong Bosch, Catherine Sutherland, and Steve Cardenas, and also the last appearance of Nakia Burrise.",
+            "genero": "http://dbpedia.org/resource/Superhero_fiction",
+            "atores": [
+                "http://dbpedia.org/resource/Roger_Velasco",
+                "http://dbpedia.org/resource/Blake_Foster",
+                "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+                "http://dbpedia.org/resource/Paul_Schrier",
+                "http://dbpedia.org/resource/Nakia_Burrise",
+                "http://dbpedia.org/resource/Catherine_Sutherland",
+                "http://dbpedia.org/resource/Tracy_Lynn_Cruz",
+                "http://dbpedia.org/resource/Jason_Narvy",
+                "http://dbpedia.org/resource/Hilary_Shepard",
+                "http://dbpedia.org/resource/Jason_David_Frank",
+                "http://dbpedia.org/resource/Patricia_Ja_Lee",
+                "http://dbpedia.org/resource/Selwyn_Ward"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Turbo",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Turbo is an American television series and the fifth season of the Power Rangers franchise. The show was prefaced with the franchise's second film, Turbo: A Power Rangers Movie. As with its predecessors, Power Rangers Turbo is based on one of the entries of the Super Sentai series; in Turbo's case, the source is the 20th series, Gekisou Sentai Carranger. The series introduced a child actor as the new Blue Ranger, and featured the departure of the long-running characters Zordon and Alpha 5, as well the veteran team of Rangers and introduced four new characters to take the place of the veteran Rangers. The fifth series also marked the final regular appearances of Johnny Yong Bosch, Catherine Sutherland, and Steve Cardenas, and also the last appearance of Nakia Burrise.",
+            "genero": "http://dbpedia.org/resource/Action_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Roger_Velasco",
+                "http://dbpedia.org/resource/Blake_Foster",
+                "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+                "http://dbpedia.org/resource/Paul_Schrier",
+                "http://dbpedia.org/resource/Nakia_Burrise",
+                "http://dbpedia.org/resource/Catherine_Sutherland",
+                "http://dbpedia.org/resource/Tracy_Lynn_Cruz",
+                "http://dbpedia.org/resource/Jason_Narvy",
+                "http://dbpedia.org/resource/Hilary_Shepard",
+                "http://dbpedia.org/resource/Jason_David_Frank",
+                "http://dbpedia.org/resource/Patricia_Ja_Lee",
+                "http://dbpedia.org/resource/Selwyn_Ward"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Power_Rangers_Turbo",
+            "pais": "United States",
+            "realizador": "Jonathan Tzachor",
+            "abs": "Power Rangers Turbo is an American television series and the fifth season of the Power Rangers franchise. The show was prefaced with the franchise's second film, Turbo: A Power Rangers Movie. As with its predecessors, Power Rangers Turbo is based on one of the entries of the Super Sentai series; in Turbo's case, the source is the 20th series, Gekisou Sentai Carranger. The series introduced a child actor as the new Blue Ranger, and featured the departure of the long-running characters Zordon and Alpha 5, as well the veteran team of Rangers and introduced four new characters to take the place of the veteran Rangers. The fifth series also marked the final regular appearances of Johnny Yong Bosch, Catherine Sutherland, and Steve Cardenas, and also the last appearance of Nakia Burrise.",
+            "genero": "http://dbpedia.org/resource/Science_fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/Roger_Velasco",
+                "http://dbpedia.org/resource/Blake_Foster",
+                "http://dbpedia.org/resource/Johnny_Yong_Bosch",
+                "http://dbpedia.org/resource/Paul_Schrier",
+                "http://dbpedia.org/resource/Nakia_Burrise",
+                "http://dbpedia.org/resource/Catherine_Sutherland",
+                "http://dbpedia.org/resource/Tracy_Lynn_Cruz",
+                "http://dbpedia.org/resource/Jason_Narvy",
+                "http://dbpedia.org/resource/Hilary_Shepard",
+                "http://dbpedia.org/resource/Jason_David_Frank",
+                "http://dbpedia.org/resource/Patricia_Ja_Lee",
+                "http://dbpedia.org/resource/Selwyn_Ward"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Project_Viper",
+            "pais": "United States",
+            "realizador": "Paul Hertzberg",
+            "abs": "Project Viper is a 2002 science-fiction thriller starring Patrick Muldoon, Theresa Russell, Curtis Armstrong and Tamara Davies that debuted as a Sci Fi Pictures TV-movie on the Sci Fi Channel. It was directed by Jim Wynorski under the pseudonym \"Jay Andrews\".",
+            "genero": "http://dbpedia.org/resource/Sci-fi",
+            "atores": [
+                "http://dbpedia.org/resource/Patrick_Muldoon",
+                "http://dbpedia.org/resource/Theresa_Russell"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Project_Viper",
+            "pais": "United States",
+            "realizador": "Lisa Maria Hansen",
+            "abs": "Project Viper is a 2002 science-fiction thriller starring Patrick Muldoon, Theresa Russell, Curtis Armstrong and Tamara Davies that debuted as a Sci Fi Pictures TV-movie on the Sci Fi Channel. It was directed by Jim Wynorski under the pseudonym \"Jay Andrews\".",
+            "genero": "http://dbpedia.org/resource/Sci-fi",
+            "atores": [
+                "http://dbpedia.org/resource/Patrick_Muldoon",
+                "http://dbpedia.org/resource/Theresa_Russell"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Project_Viper",
+            "pais": "United States",
+            "realizador": "Lisa M. Hansen",
+            "abs": "Project Viper is a 2002 science-fiction thriller starring Patrick Muldoon, Theresa Russell, Curtis Armstrong and Tamara Davies that debuted as a Sci Fi Pictures TV-movie on the Sci Fi Channel. It was directed by Jim Wynorski under the pseudonym \"Jay Andrews\".",
+            "genero": "http://dbpedia.org/resource/Sci-fi",
+            "atores": [
+                "http://dbpedia.org/resource/Patrick_Muldoon",
+                "http://dbpedia.org/resource/Theresa_Russell"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Project_Viper",
+            "pais": "United States",
+            "realizador": "Paul Hertzberg",
+            "abs": "Project Viper is a 2002 science-fiction thriller starring Patrick Muldoon, Theresa Russell, Curtis Armstrong and Tamara Davies that debuted as a Sci Fi Pictures TV-movie on the Sci Fi Channel. It was directed by Jim Wynorski under the pseudonym \"Jay Andrews\".",
+            "genero": "http://dbpedia.org/resource/Thriller_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Patrick_Muldoon",
+                "http://dbpedia.org/resource/Theresa_Russell"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Project_Viper",
+            "pais": "United States",
+            "realizador": "Lisa Maria Hansen",
+            "abs": "Project Viper is a 2002 science-fiction thriller starring Patrick Muldoon, Theresa Russell, Curtis Armstrong and Tamara Davies that debuted as a Sci Fi Pictures TV-movie on the Sci Fi Channel. It was directed by Jim Wynorski under the pseudonym \"Jay Andrews\".",
+            "genero": "http://dbpedia.org/resource/Thriller_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Patrick_Muldoon",
+                "http://dbpedia.org/resource/Theresa_Russell"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Project_Viper",
+            "pais": "United States",
+            "realizador": "Lisa M. Hansen",
+            "abs": "Project Viper is a 2002 science-fiction thriller starring Patrick Muldoon, Theresa Russell, Curtis Armstrong and Tamara Davies that debuted as a Sci Fi Pictures TV-movie on the Sci Fi Channel. It was directed by Jim Wynorski under the pseudonym \"Jay Andrews\".",
+            "genero": "http://dbpedia.org/resource/Thriller_(genre)",
+            "atores": [
+                "http://dbpedia.org/resource/Patrick_Muldoon",
+                "http://dbpedia.org/resource/Theresa_Russell"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Peter Yarrow",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Family_film",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Romeo Muller",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Family_film",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Charles Swenson",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Family_film",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Fred Wolf",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Family_film",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Peter Yarrow",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Short_film",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Romeo Muller",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Short_film",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Charles Swenson",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Short_film",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Fred Wolf",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Short_film",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Charles Swenson",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Animation",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Fred Wolf",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Animation",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Peter Yarrow",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Animation",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Romeo Muller",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Animation",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Peter Yarrow",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Romeo Muller",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Charles Swenson",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Puff_the_Magic_Dragon_in_the_Land_of_the_Living_Lies",
+            "pais": "United States",
+            "realizador": "Fred Wolf",
+            "abs": "Puff the Magic Dragon in the Land of the Living Lies is a 24-minute animated television special that first aired November 17, 1979 on CBS. A sequel to the 1978 TV special Puff the Magic Dragon, with Burgess Meredith returning as the voice of the title character, the special was produced by Fred Wolf Films. The sequel Puff and the Incredible Mr. Nobody aired in 1982.",
+            "genero": "http://dbpedia.org/resource/Fantasy",
+            "atores": [
+                "http://dbpedia.org/resource/Robert_Ridgely",
+                "http://dbpedia.org/resource/Peter_Yarrow",
+                "http://dbpedia.org/resource/Burgess_Meredith",
+                "http://dbpedia.org/resource/Joan_Gerber",
+                "http://dbpedia.org/resource/Ike_Eisenmann"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Switzerland",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Switzerland",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United States",
+            "realizador": "Pierre Spengler",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United States",
+            "realizador": "Pierre Spengler",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Romania",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Romania",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United States",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United States",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Romania",
+            "realizador": "Pierre Spengler",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Romania",
+            "realizador": "Pierre Spengler",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United Kingdom",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United Kingdom",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Switzerland",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Switzerland",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Romania",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Romania",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United Kingdom",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United Kingdom",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United Kingdom",
+            "realizador": "Pierre Spengler",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United Kingdom",
+            "realizador": "Pierre Spengler",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United States",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "United States",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Switzerland",
+            "realizador": "Pierre Spengler",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Ashes_to_Ashes",
+            "pais": "Switzerland",
+            "realizador": "Pierre Spengler",
+            "abs": "Pumpkinhead: Ashes to Ashes is a 2006 made-for-television slasher horror film and the third installment in the Pumpkinhead film series of horror films. The film is directed by Jake West (Evil Aliens), who co-wrote the screenplay with Barbara Werner.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Lance_Henriksen",
+                "http://dbpedia.org/resource/Doug_Bradley"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Blood_Feud",
+            "pais": "Romania",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Blood Feud is a 2007 American made-for-television slasher horror film and the fourth installment in the Pumpkinhead film series of horror films. The film is written and directed by Michael Hurst.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Amy_Manson",
+                "http://dbpedia.org/resource/Lance_Henriksen"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Blood_Feud",
+            "pais": "Romania",
+            "realizador": "Brad Krevoy",
+            "abs": "Pumpkinhead: Blood Feud is a 2007 American made-for-television slasher horror film and the fourth installment in the Pumpkinhead film series of horror films. The film is written and directed by Michael Hurst.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Amy_Manson",
+                "http://dbpedia.org/resource/Lance_Henriksen"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Blood_Feud",
+            "pais": "United Kingdom",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Blood Feud is a 2007 American made-for-television slasher horror film and the fourth installment in the Pumpkinhead film series of horror films. The film is written and directed by Michael Hurst.",
+            "genero": "http://dbpedia.org/resource/Horror_film",
+            "atores": [
+                "http://dbpedia.org/resource/Amy_Manson",
+                "http://dbpedia.org/resource/Lance_Henriksen"
+            ]
+        },
+        {
+            "id": "http://dbpedia.org/resource/Pumpkinhead:_Blood_Feud",
+            "pais": "United Kingdom",
+            "realizador": "Donald Kushner",
+            "abs": "Pumpkinhead: Blood Feud is a 2007 American made-for-television slasher horror film and the fourth installment in the Pumpkinhead film series of horror films. The film is written and directed by Michael Hurst.",
+            "genero": "http://dbpedia.org/resource/Slasher_film",
+            "atores": [
+                "http://dbpedia.org/resource/Amy_Manson",
+                "http://dbpedia.org/resource/Lance_Henriksen"
+            ]
+        }
+    ]
+}
