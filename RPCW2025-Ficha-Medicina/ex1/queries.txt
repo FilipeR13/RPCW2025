@@ -1,0 +1,26 @@
+## Ex1:
+SELECT (COUNT(?class) AS ?numClasses)
+WHERE { ?class a owl:Class . }
+
+## Ex2:
+SELECT (COUNT(?property) AS ?numObjectProperties)
+WHERE { ?property a owl:ObjectProperty . }
+
+## Ex3:
+SELECT (COUNT(?individual) AS ?numIndividuos)
+WHERE { ?individual a owl:NamedIndividual . }
+
+## Ex4:
+PREFIX : <http://www.semanticweb.org/josérodrigues/ontologies/2025/historia/>
+ 
+SELECT ?quem WHERE { 
+	?quem :cultiva :Tomate .
+}
+
+## Ex5:
+PREFIX : <http://www.semanticweb.org/josérodrigues/ontologies/2025/historia/>
+ 
+SELECT ?quem WHERE { 
+	?quem :contrata :Trabalhador .
+}
+
