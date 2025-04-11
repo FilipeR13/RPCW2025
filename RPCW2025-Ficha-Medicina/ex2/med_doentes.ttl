@@ -24899,7 +24899,7 @@
 
 :Description a owl:DatatypeProperty ;
     rdfs:domain :Disease ;
-    rdfs:range "string" .
+    rdfs:range xsd:string .
 
 :Desejado_Rogélio a :Patient ;
     :Id 9359 ;
@@ -45876,7 +45876,7 @@
 
 :Id a owl:DatatypeProperty ;
     rdfs:domain :Patient ;
-    rdfs:range "integer" .
+    rdfs:range xsd:integer .
 
 :Idalina_de_Fátima_Alipio a :Patient ;
     :Id 9242 ;
@@ -113311,9 +113311,9 @@
     rdfs:domain :Patient ;
     rdfs:range :Disease .
 
-:hasName a owl:ObjectProperty ;
+:hasName a owl:DatatypeProperty ;
     rdfs:domain :Patient ;
-    rdfs:range "string" .
+    rdfs:range xsd:string .
 
 :hasSymptom a owl:ObjectProperty ;
     rdfs:domain :Disease ;

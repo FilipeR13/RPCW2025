@@ -1,4 +1,4 @@
-from rdflib import Graph, Namespace, RDF, RDFS, OWL, Literal
+from rdflib import Graph, Namespace, RDF, RDFS, OWL, Literal, XSD
 import csv, json
 
 EX = Namespace("http://www.example.org/disease-ontology#")
@@ -30,19 +30,19 @@ new_graph.add((EX.hasTreatment, RDFS.range, EX.Treatment))
 
 new_graph.add((EX.Description, RDF.type, OWL.DatatypeProperty))
 new_graph.add((EX.Description, RDFS.domain, EX.Disease))
-new_graph.add((EX.Description, RDFS.range, Literal("string")))
+new_graph.add((EX.Description, RDFS.range, XSD.string))
 
 new_graph.add((EX.hasSympton, RDF.type, OWL.ObjectProperty))
 new_graph.add((EX.hasSympton, RDFS.domain, EX.Patient))
 new_graph.add((EX.hasSympton, RDFS.range, EX.Symptom))
 
-new_graph.add((EX.hasName, RDF.type, OWL.ObjectProperty))
+new_graph.add((EX.hasName, RDF.type, OWL.DatatypeProperty))
 new_graph.add((EX.hasName, RDFS.domain, EX.Patient))
-new_graph.add((EX.hasName, RDFS.range, Literal("string")))
+new_graph.add((EX.hasName, RDFS.range, XSD.string))
 
 new_graph.add((EX.Id, RDF.type, OWL.DatatypeProperty))
 new_graph.add((EX.Id, RDFS.domain, EX.Patient))
-new_graph.add((EX.Id, RDFS.range, Literal("integer")))
+new_graph.add((EX.Id, RDFS.range, XSD.integer))
 
 with open("datasets/Disease_Syntoms.csv", "r") as csv_file:
     reader = csv.DictReader(csv_file)
