@@ -86,13 +86,13 @@ SELECT ?periodo (COUNT(?conceito) AS ?num_conceitos) {
 21. Quais os títulos das obras associadas a cada conceito? (Resultado será uma lista de pares: Conceito, Lista de títulos de obras)
 
 PREFIX : <http://www.semanticweb.org/josérodrigues/ontologies/2025/academia/>
-SELECT ?conceito_nome (GROUP_CONCAT(?titulo_obra; SEPARATOR=", ") AS ?titulos) {
-    ?conceito a :Conceito ;
-              :nome ?conceito_nome .
-    ?obra a :Obra ;
-          :explica ?conceito ;
-          :título ?titulo_obra .
-} GROUP BY ?conceito_nome
+SELECT ?conceito (GROUP_CONCAT(?titulo; separator=", ") AS ?titles)
+WHERE {
+  ?obra a :Obra .
+  ?obra :explica ?conceito .
+  ?obra :título ?titulo .
+}
+GROUP BY ?conceito
 
 22. Quais os aprendizes que frequentam cada uma das disciplinas? (Resultado será uma lista de pares: Disciplina, Lista dos nomes dos aprendizes que frequentam a disciplina)
 
